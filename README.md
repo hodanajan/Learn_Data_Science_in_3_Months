@@ -73,3 +73,10 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 
 ## Week 4 Kaggle Project #3
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
+
+## Week 5 Data Visualization Systems
+- https://www.tableau.com/
+- https://www.qlik.com/us
+- https://datastudio.google.com/
+- https://www.gooddata.com/
+- https://looker.com/
