@@ -80,3 +80,5 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - https://datastudio.google.com/
 - https://www.gooddata.com/
 - https://looker.com/
+
+## Week 6 Scraping
