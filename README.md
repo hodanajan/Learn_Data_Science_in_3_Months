@@ -82,3 +82,5 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - https://looker.com/
 
 ## Week 6 Scraping
+Beautiful Soup
+Selenium
