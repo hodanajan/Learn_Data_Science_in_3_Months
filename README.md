@@ -84,3 +84,12 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 ## Week 6 Scraping
 Beautiful Soup
 Selenium
+
+## Kaggle beginner competitions
+There is a Getting Started Category in the Kaggle competition page.
+
+Classification Problem: https://www.kaggle.com/c/titanic
+Regression Problem: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+Computer Vision: https://www.kaggle.com/c/digit-recognizer
+Image Processing: https://www.kaggle.com/c/facial-keypoints-detection
+Natural Language Processing: https://www.kaggle.com/c/word2vec-nlp-tutorial
