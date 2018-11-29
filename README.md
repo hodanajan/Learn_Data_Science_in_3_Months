@@ -93,3 +93,6 @@ Regression Problem: https://www.kaggle.com/c/house-prices-advanced-regression-te
 Computer Vision: https://www.kaggle.com/c/digit-recognizer
 Image Processing: https://www.kaggle.com/c/facial-keypoints-detection
 Natural Language Processing: https://www.kaggle.com/c/word2vec-nlp-tutorial
+
+## Bonus
+D3: https://d3js.org/
