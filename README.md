@@ -96,4 +96,5 @@ Natural Language Processing: https://www.kaggle.com/c/word2vec-nlp-tutorial
 
 ## Bonus
 D3: https://d3js.org/
+https://www.fullstackpython.com/d3-js.html
 D3 + Python: http://www.austintaylor.io/d3/python/pandas/2016/02/01/create-d3-chart-python-force-directed/
