@@ -82,8 +82,8 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - https://looker.com/
 
 ## Week 6 Scraping
-Beautiful Soup
-Selenium
+- Beautiful Soup
+- Selenium
 
 ## Kaggle beginner competitions
 There is a Getting Started Category in the Kaggle competition page.
@@ -95,6 +95,7 @@ Image Processing: https://www.kaggle.com/c/facial-keypoints-detection
 Natural Language Processing: https://www.kaggle.com/c/word2vec-nlp-tutorial
 
 ## Bonus
-D3: https://d3js.org/
+- D3: https://d3js.org/
 https://www.fullstackpython.com/d3-js.html
-D3 + Python: http://www.austintaylor.io/d3/python/pandas/2016/02/01/create-d3-chart-python-force-directed/
+
+- D3 + Python: http://www.austintaylor.io/d3/python/pandas/2016/02/01/create-d3-chart-python-force-directed/
