@@ -75,7 +75,9 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
 
 ## Week 5 Data Visualization Systems
-- https://www.tableau.com/
+Tableau
+- https://www.datacamp.com/community/tutorials/data-visualisation-tableau
+
 - https://www.qlik.com/us
 - https://datastudio.google.com/
 - https://www.gooddata.com/
