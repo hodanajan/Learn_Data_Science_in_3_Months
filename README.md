@@ -26,8 +26,13 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 # Month 1 - Data Analysis
 
 ## Week 1 - Learn Python
+- Kaggle Python Crashcourse https://www.kaggle.com/learn/python
 - EdX https://www.edx.org/course/introduction-python-data-science-2
 - Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
+- Python Cheatsheet https://learnxinyminutes.com/docs/python3/
+
+- Automate The Boring Stuff With Python https://automatetheboringstuff.com/
+- Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939
 
 ## Week 2 - Statistics & Probability
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
@@ -89,13 +94,14 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 ## Kaggle beginner competitions
 There is a Getting Started Category in the Kaggle competition page.
 
-- Classification Problem: https://www.kaggle.com/c/titanic
-- Regression Problem: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-- Computer Vision: https://www.kaggle.com/c/digit-recognizer
-- Image Processing: https://www.kaggle.com/c/facial-keypoints-detection
-- Natural Language Processing: https://www.kaggle.com/c/word2vec-nlp-tutorial
+- Classification Problem https://www.kaggle.com/c/titanic
+- Regression Problem https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+- Computer Vision https://www.kaggle.com/c/digit-recognizer
+- Image Processing https://www.kaggle.com/c/facial-keypoints-detection
+- Natural Language Processing https://www.kaggle.com/c/word2vec-nlp-tutorial
 
 ## Bonus
-- D3: https://d3js.org/
+- D3 https://d3js.org/
 https://www.fullstackpython.com/d3-js.html
-- D3 + Python: http://www.austintaylor.io/d3/python/pandas/2016/02/01/create-d3-chart-python-force-directed/
+- D3 + Python http://www.austintaylor.io/d3/python/pandas/2016/02/01/create-d3-chart-python-force-directed/
+- Docker https://towardsdatascience.com/docker-for-data-science-4901f35d7cf9
