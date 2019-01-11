@@ -106,3 +106,4 @@ There is a Getting Started Category in the Kaggle competition page.
 https://www.fullstackpython.com/d3-js.html
 - D3 + Python http://www.austintaylor.io/d3/python/pandas/2016/02/01/create-d3-chart-python-force-directed/
 - Docker https://towardsdatascience.com/docker-for-data-science-4901f35d7cf9
+- Fast.AI https://www.fast.ai/
