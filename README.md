@@ -90,6 +90,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 ## Week 6 Scraping
 - Beautiful Soup
 - Selenium
+- Scrapy
 
 ## Kaggle beginner competitions
 There is a Getting Started Category in the Kaggle competition page.
